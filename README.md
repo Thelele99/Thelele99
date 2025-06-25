@@ -1,38 +1,57 @@
-Hola, mucho gusto. Soy Johan Esneyder Serna, profesional del área de TI con 5 años de experiencia como consultor de tecnología.
+# 👨‍💻 Johan Esneyder Serna
 
-Me especializo en:
-
-Arquitectura en Microsoft Azure
-
-Implementación de Windows Server (2012–2025)
-
-Configuración de firewalls (Sophos, SonicWall, Fortinet, Mikrotik)
-
-Certificación en Kaspersky Cloud
-
-Backup y restauración de bases de datos (MySQL, SQL Server)
-
-Configuración de servidores (HP, Dell, Lenovo)
-
-He participado en proyectos como:
-
-Implementación de servidores físicos para Fintech y empresas corporativas
-
-Plataforma de créditos digitales para Banistmo
-
-App móvil V-App para Nosotras
-
-Seguridad de red para Bancolombia
-
-🎯 Áreas de interés:
-
-Configuración avanzada de firewalls
-
-Cloud-native architectures
-
-Inteligencia Artificial
-
-Estoy en busca de oportunidades donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
+🔗 [LinkedIn: Johan Esneyder Serna](#)  
+🌐 [GitHub: @Thelele99](https://github.com/Thelele99)  
 📧 Email: Esneidergil99@gmail.com
-🔗 LinkedIn: Johan Esneyder Serna
-💻 GitHub: @Thelele99
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy una persona responsable, puntual, creativa y con muy buena disposición para cualquier tarea que se me asigne.  
+Tengo **5 años de experiencia** laboral en el área de TI. Me interesa principalmente trabajar en **proyectos con un nivel de innovación alto y enfoque social**.  
+Soy comunicativo, amable y capaz de adaptarme a cada situación.  
+Busco una oportunidad laboral donde pueda demostrar mi **compromiso y capacidad de trabajo**.  
+En mis empleos anteriores me he destacado por mi **productividad** y por **aprender rápidamente**.
+
+---
+
+## 🎮 Consultor de tecnología
+
+### ☁️ Tecnologías y habilidades
+
+- Experiencia en arquitecturas **Azure**
+- 🚀 Implementación de **Windows Server** 2012, 2016, 2019, 2022 y 2025
+- 🔄 Certificados **Kaspersky Cloud profesionales**
+- 📊 Backup y restauración de bases de datos
+- 🛠️ Configuración y mantenimiento de servidores: **HP, Lenovo, Dell**
+
+### 🗄️ Base de Datos
+
+- **MySQL**
+- **SQL Server**
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🌐 Implementación de servidores físicos (Fintech & Enterprise)
+- 🏦 Configuración de firewalls: **Sophos, SonicWall, Fortinet, Mikrotik**
+- 💳 Gestión Digital de Créditos para **Banistmo**
+- 📱 Aplicación móvil **V-App** para **Nosotras**
+
+---
+
+## 🎯 Intereses
+
+- 🎮 Configuración completa de firewalls
+- 🌐 Arquitecturas **cloud-native**
+- 🤖 Inteligencia Artificial
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: [Esneidergil99@gmail.com](mailto:Esneidergil99@gmail.com)
+- 📱 LinkedIn: [Johan Esneyder Serna](#)
+- 🌐 GitHub: [@Thelele99](https://github.com/Thelele99)
