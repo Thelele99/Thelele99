@@ -1,16 +1,38 @@
-## Hi there 👋
+Hola, mucho gusto. Soy Johan Esneyder Serna, profesional del área de TI con 5 años de experiencia como consultor de tecnología.
 
-<!--
-**Thelele99/Thelele99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me especializo en:
 
-Here are some ideas to get you started:
+Arquitectura en Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Implementación de Windows Server (2012–2025)
+
+Configuración de firewalls (Sophos, SonicWall, Fortinet, Mikrotik)
+
+Certificación en Kaspersky Cloud
+
+Backup y restauración de bases de datos (MySQL, SQL Server)
+
+Configuración de servidores (HP, Dell, Lenovo)
+
+He participado en proyectos como:
+
+Implementación de servidores físicos para Fintech y empresas corporativas
+
+Plataforma de créditos digitales para Banistmo
+
+App móvil V-App para Nosotras
+
+Seguridad de red para Bancolombia
+
+🎯 Áreas de interés:
+
+Configuración avanzada de firewalls
+
+Cloud-native architectures
+
+Inteligencia Artificial
+
+Estoy en busca de oportunidades donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
+📧 Email: Esneidergil99@gmail.com
+🔗 LinkedIn: Johan Esneyder Serna
+💻 GitHub: @Thelele99
