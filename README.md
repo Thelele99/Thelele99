@@ -37,9 +37,8 @@ En mis empleos anteriores me he destacado por mi **productividad** y por **apren
 
 - 🌐 Implementación de servidores físicos (Fintech & Enterprise)
 - 🏦 Configuración de firewalls: **Sophos, SonicWall, Fortinet, Mikrotik**
-- 💳 Gestión Digital de Créditos para **Banistmo**
-- 📱 Aplicación móvil **V-App** para **Nosotras**
-
+- 💳 Gestión y configuración de copias de seguridad **Acronis**
+- 📱 Virtualización **Hyper V**
 ---
 
 ## 🎯 Intereses
