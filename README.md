@@ -16,15 +16,15 @@ En mis empleos anteriores me he destacado por mi **productividad** y por **apren
 
 ---
 
-## 🎮 Consultor de tecnología
+## 🤖 Consultor de tecnología
 
 ### ☁️ Tecnologías y habilidades
 
 - Experiencia en arquitecturas **Azure**
-- 🚀 Implementación de **Windows Server** 2012, 2016, 2019, 2022 y 2025
-- 🔄 Certificados **Kaspersky Cloud profesionales**
+- 🪢 Implementación de **Windows Server** 2012, 2016, 2019, 2022 y 2025
+- 🪪 Certificados **Kaspersky Cloud profesionales**
 - 📊 Backup y restauración de bases de datos
-- 🛠️ Configuración y mantenimiento de servidores: **HP, Lenovo, Dell**
+- 🖥️ Configuración y mantenimiento de servidores: **HP, Lenovo, Dell**
 
 ### 🗄️ Base de Datos
 
@@ -43,7 +43,7 @@ En mis empleos anteriores me he destacado por mi **productividad** y por **apren
 
 ## 🎯 Intereses
 
-- 🎮 Configuración completa de firewalls
+- 📡 Configuración completa de firewalls
 - 🌐 Arquitecturas **cloud-native**
 - 🤖 Inteligencia Artificial
 
