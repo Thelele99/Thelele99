@@ -1,5 +1,3 @@
-# 👨‍💻 Johan Esneyder Serna
-
 🔗 [LinkedIn: Johan Esneyder Serna](#)  
 🌐 [GitHub: @Thelele99](https://github.com/Thelele99)  
 📧 Email: Esneidergil99@gmail.com
