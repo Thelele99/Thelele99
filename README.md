@@ -17,7 +17,7 @@ En mis empleos anteriores me he destacado por mi **productividad** y por **apren
 
 ### ☁️ Tecnologías y habilidades
 
-- Experiencia en arquitecturas **Azure**
+- ☁️Experiencia en arquitecturas **Azure**
 - 🪢 Implementación de **Windows Server** 2012, 2016, 2019, 2022 y 2025
 - 🪪 Certificados **Kaspersky Cloud profesionales**
 - 📊 Backup y restauración de bases de datos
