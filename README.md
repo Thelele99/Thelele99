@@ -8,8 +8,7 @@
 
 Soy una persona responsable, puntual, creativa y con muy buena disposición para cualquier tarea que se me asigne.  
 Tengo **5 años de experiencia** laboral en el área de TI. Me interesa principalmente trabajar en **proyectos con un nivel de innovación alto y enfoque social**.  
-Soy comunicativo, amable y capaz de adaptarme a cada situación.  
-Busco una oportunidad laboral donde pueda demostrar mi **compromiso y capacidad de trabajo**.  
+Soy comunicativo, amable y capaz de adaptarme a cada situación.   
 En mis empleos anteriores me he destacado por mi **productividad** y por **aprender rápidamente**.
 
 ---
